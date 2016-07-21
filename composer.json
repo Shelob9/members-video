@@ -1,0 +1,13 @@
+{
+    "name": "calderawp/members-video",
+    "description": "Simple restricted members video plugin for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Josh Pollock",
+            "email": "Josh@CalderaWP.com"
+        }
+    ],
+    "require": {}
+}
